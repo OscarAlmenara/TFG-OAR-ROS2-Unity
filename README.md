@@ -32,7 +32,7 @@ Beyond incorporating new agents such as a multirotor UAV and SAR human units, th
 Before using this repository:
 
 1. Go to the original project [TFG_KDN_UnityROS2](https://github.com/Kmdnb/TFG_KDN_UnityROS2/tree/main).
-2. Follow all steps to correctly install Unity, ROS 2 Foxy, ROS‑TCP‑Endpoint, and the Unity–ROS bridge.
+2. Follow all steps to correctly install Unity, ROS 2 Humble, ROS‑TCP‑Endpoint, and the Unity–ROS bridge.
 
 Once you have a working version of that base simulation, continue below.
 
