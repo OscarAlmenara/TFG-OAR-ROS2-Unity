@@ -53,8 +53,8 @@ cp -r ./TFG-OAR-ROS2-Unity/Assets ./TFG_KDN_UnityROS2/Assets
 
 This folder includes:
 
-- Updated scenes for testing UAV and multi-agent environments.
-- New models for the J8 Rover and additional characters.
+- Complete models for the UAV, the J8 rover, and human characters.
+- All scripts used for control, simulation, and agent logic.
 - Materials and textures for realistic terrain rendering.
 
 ### 3.3 Key Scripts Included
