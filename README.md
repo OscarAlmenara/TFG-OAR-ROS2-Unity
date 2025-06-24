@@ -90,7 +90,7 @@ The following scripts are included as major innovations in this project:
 
 To run the full system:
 
-1. Start your ROS 2 environment and launch the nodes that publish GPS and sensor data.
+1. Start your ROS 2 environment in your Linux terminal. (launch the nodes that publish GPS and sensor data if you are using rosbag).
 2. Start the ROS-TCP-Endpoint server.
 3. Launch the Unity project with the replaced `Assets` folder.
 4. ✅ **Verify Unity–ROS 2 communication is working.**
